@@ -1,0 +1,52 @@
+{
+	"entries": [
+		{
+				"message": "Running 01_Run Chrome.script",
+				"identifier": "START",
+				"timestamp": "2018-12-12 11:49:08.594 +0900"
+			},
+		{
+				"handlerName": "on_01_run_chrome",
+				"timestamp": "2018-12-12 11:49:08.719 +0900",
+				"message": "[windowsKey]r",
+				"scriptName": "01_Run Chrome.script",
+				"handlerLine": 3,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_01_run_chrome",
+				"timestamp": "2018-12-12 11:49:09.608 +0900",
+				"message": "chrome",
+				"scriptName": "01_Run Chrome.script",
+				"handlerLine": 4,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_01_run_chrome",
+				"timestamp": "2018-12-12 11:49:10.341 +0900",
+				"message": "[returnKey]",
+				"scriptName": "01_Run Chrome.script",
+				"handlerLine": 5,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_01_run_chrome",
+				"timestamp": "2018-12-12 11:49:11.098 +0900",
+				"message": "[windowsAltKey][F4]",
+				"scriptName": "01_Run Chrome.script",
+				"handlerLine": 6,
+				"identifier": "typetext"
+			},
+		{
+				"message": "(Duration:\"2.566\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2018-12-12 11:49:08 +0900\", Successes:\"1\", TestCase:\"01_Run Chrome.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2018-12-12 11:49:11.160 +0900"
+			},
+		{
+				"message": "Execution Time 0:00:03 01_Run Chrome.script",
+				"identifier": "SUCCESS",
+				"timestamp": "2018-12-12 11:49:11.207 +0900"
+			}
+	],
+	"createdTimestamp": "2018-12-12 02:49:08.593 +0000"
+}

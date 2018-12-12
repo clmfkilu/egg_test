@@ -1,0 +1,36 @@
+{
+	"entries": [
+		{
+				"message": "Running 00_Master.script",
+				"identifier": "START",
+				"timestamp": "2018-12-12 10:50:05.938 +0900"
+			},
+		{
+				"handlerName": "on_00_master",
+				"timestamp": "2018-12-12 10:50:06.037 +0900",
+				"message": "[windowsKey]R",
+				"scriptName": "00_Master.script",
+				"handlerLine": 3,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_00_master",
+				"timestamp": "2018-12-12 10:50:08.694 +0900",
+				"message": "C:\\Program Files (x86)\\Google\\Chrome\\Application\\chrome.exe",
+				"scriptName": "00_Master.script",
+				"handlerLine": 4,
+				"identifier": "typetext"
+			},
+		{
+				"message": "(Duration:\"2.783\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2018-12-12 10:50:05 +0900\", Successes:\"1\", TestCase:\"00_Master.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2018-12-12 10:50:08.725 +0900"
+			},
+		{
+				"message": "Execution Time 0:00:03 00_Master.script",
+				"identifier": "SUCCESS",
+				"timestamp": "2018-12-12 10:50:08.756 +0900"
+			}
+	],
+	"createdTimestamp": "2018-12-12 01:50:05.941 +0000"
+}

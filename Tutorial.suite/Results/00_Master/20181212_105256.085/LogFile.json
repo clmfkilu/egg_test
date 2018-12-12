@@ -1,0 +1,20 @@
+{
+	"entries": [
+		{
+				"message": "Running 00_Master.script",
+				"identifier": "START",
+				"timestamp": "2018-12-12 10:52:56.085 +0900"
+			},
+		{
+				"message": "(Duration:\"0.133\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2018-12-12 10:52:56 +0900\", Successes:\"1\", TestCase:\"00_Master.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2018-12-12 10:52:56.235 +0900"
+			},
+		{
+				"message": "Execution Time 0:00:00 00_Master.script",
+				"identifier": "SUCCESS",
+				"timestamp": "2018-12-12 10:52:56.254 +0900"
+			}
+	],
+	"createdTimestamp": "2018-12-12 01:52:56.100 +0000"
+}

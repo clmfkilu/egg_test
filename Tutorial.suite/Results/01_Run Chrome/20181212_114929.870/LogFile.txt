@@ -1,0 +1,7 @@
+﻿2018-12-12 11:49:29.870 +0900	START		Running 01_Run Chrome.script
+2018-12-12 11:49:30.478 +0900	typetext		[windowsKey]r	3	on_01_run_chrome	01_Run Chrome.script
+2018-12-12 11:49:31.380 +0900	typetext		chrome	4	on_01_run_chrome	01_Run Chrome.script
+2018-12-12 11:49:32.113 +0900	typetext		[returnKey]	5	on_01_run_chrome	01_Run Chrome.script
+2018-12-12 11:49:32.863 +0900	typetext		[windowsAltKey][F4]	6	on_01_run_chrome	01_Run Chrome.script
+2018-12-12 11:49:32.941 +0900	EndTestCase		(Duration:"3.056", Errors:"0", Exceptions:"0", StartTime:"2018-12-12 11:49:29 +0900", Successes:"1", TestCase:"01_Run Chrome.script", Warnings:"0")
+2018-12-12 11:49:32.957 +0900	SUCCESS		Execution Time 0:00:03 01_Run Chrome.script

@@ -1,0 +1,19 @@
+﻿<?xml version="1.0"?>
+<statistics>
+ <script name="01_Run Chrome">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>10</NumberOfRuns>
+  <NumberOfFails>0</NumberOfFails>
+  <FirstRun>2018-12-12 11:49:08 +0900</FirstRun>
+  <LastRun>2018-12-12 11:49:36 +0900</LastRun>
+  <TotalTimeOnSuccess>29.839000</TotalTimeOnSuccess>
+ </script>
+ <script name="00_Master">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>3</NumberOfRuns>
+  <NumberOfFails>0</NumberOfFails>
+  <FirstRun>2018-12-12 10:48:44 +0900</FirstRun>
+  <LastRun>2018-12-12 10:52:56 +0900</LastRun>
+  <TotalTimeOnSuccess>5.474000</TotalTimeOnSuccess>
+ </script>
+</statistics>

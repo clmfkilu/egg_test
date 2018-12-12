@@ -1,0 +1,39 @@
+﻿<?xml version="1.0"?>
+<runHistory script="00_Master">
+ <run>
+  <RunDate>2018-12-12 10:48:44.425 +0900</RunDate>
+  <Status>Success</Status>
+  <Duration>2.536000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20181212_104844.425/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-12-12 10:50:05.936 +0900</RunDate>
+  <Status>Success</Status>
+  <Duration>2.789000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20181212_105005.936/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-12-12 10:52:56.085 +0900</RunDate>
+  <Status>Success</Status>
+  <Duration>0.149000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20181212_105256.085/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+</runHistory>

@@ -1,0 +1,5 @@
+﻿2018-12-12 10:48:44.425 +0900	START		Running 00_Master.script
+2018-12-12 10:48:44.549 +0900	keydown		[windowsKey]R	3	on_00_master	00_Master.script
+2018-12-12 10:48:46.914 +0900	typetext		C:\Program Files (x86)\Google\Chrome\Application\chrome.exe	4	on_00_master	00_Master.script
+2018-12-12 10:48:46.961 +0900	EndTestCase		(Duration:"2.521", Errors:"0", Exceptions:"0", StartTime:"2018-12-12 10:48:44 +0900", Successes:"1", TestCase:"00_Master.script", Warnings:"0")
+2018-12-12 10:48:46.976 +0900	SUCCESS		Execution Time 0:00:02 00_Master.script
