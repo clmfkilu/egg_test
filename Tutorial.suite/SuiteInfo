@@ -1,1 +1,30 @@
-﻿{EPVersionNumber = 1811131049; Schedules = ({ChangeCount = 5; Name = "Schedule 1"; Schedule = ({Num = 1; Run = YES; Script = "01_Run Chrome.script"; }); }); ScriptMetaData = {}; SuiteEncodedTextKey = "Y^r?y!RbA8y$\\n=v"; helpedSuitesInfo = (); helperSuitesInfo = (); }
+﻿{
+    EPVersionNumber = 1811131049;
+    Schedules =     (
+                {
+            ChangeCount = 5;
+            Name = "Schedule 1";
+            Path = "~~schedule~~Schedule 1";
+            Schedule =             (
+                                {
+                    Num = 1;
+                    Run = YES;
+                    Script = "01_Run Chrome.script";
+                }
+            );
+        }
+    );
+    ScriptMetaData =     {
+    };
+    SuiteEncodedTextKey = "Y^r?y!RbA8y$\\n=v";
+    Tags =     (
+        address,
+        bar,
+        refresh,
+        add
+    );
+    helpedSuitesInfo =     (
+    );
+    helperSuitesInfo =     (
+    );
+}

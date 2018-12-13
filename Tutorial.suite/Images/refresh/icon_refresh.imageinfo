@@ -1,0 +1,25 @@
+﻿{
+    CaptureDate = "2018-12-13 09:32:35 +0000";
+    CaptureHost = "win_test";
+    CaptureScreenSize =     (
+        1920,
+        1080
+    );
+    HasAlpha = 1;
+    HotSpotX = 11;
+    HotSpotY = 10;
+    ImageDescription = <7b5c7274 66315c61 6e73695c 616e7369 63706739 34395c63 6f636f61 72746631 3637315c 636f636f 61737562 72746632 30300a7b 5c666f6e 7474626c 7d0a7b5c 636f6c6f 7274626c 3b5c7265 64323535 5c677265 656e3235 355c626c 75653235 353b7d0a 7b5c2a5c 65787061 6e646564 636f6c6f 7274626c 3b3b7d0a 7d>;
+    ImageTags =     (
+        refresh
+    );
+    LastKnownLocationX = 0;
+    LastKnownLocationY = 0;
+    OriginalLocationX = 74;
+    OriginalLocationY = 42;
+    Precise = 0;
+    Pulsing = 0;
+    Scale = 1;
+    tags =     (
+        refresh
+    );
+}

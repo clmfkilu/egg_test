@@ -1,21 +1,20 @@
-﻿//chrome 실행
-
+﻿// chrome 실행
 typetext windowsKey, "r"
 typetext "chrome"
 typetext returnKey
-typetext altkey, F4
 
-//
+wait 3
 
-typetext windowsKey, "r"
-typetext "chrome"
+// danawa 접속
+Click (Image:"click_adressbar", WaitFor:2)
+typetext "www.danawa.com"
 typetext returnKey
-typetext altkey, F4
-//
+Wait 2
 
-typetext windowsKey, "r"
-typetext "chrome"
-typetext returnKey
-typetext altkey, F4
-//
+// 광고 해제
+if imagefound("click_add") then
+	Click (Image:"click_add", WaitFor:6)
+end if
 
+// chrome 닫기 
+typetext altkey, F4
