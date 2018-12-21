@@ -1,0 +1,5 @@
+﻿2018-12-21 14:00:32.603 +0900	START		Running 11_connected Shilla Duty-Free.script
+2018-12-21 14:00:33.256 +0900	click	click_adressbar	at (188, 52)	2	on_11_connected_shilla_duty_free	11_connected Shilla Duty-Free.script
+2018-12-21 14:00:34.760 +0900	typetext		www.shilladfs.com	3	on_11_connected_shilla_duty_free	11_connected Shilla Duty-Free.script
+2018-12-21 14:00:34.999 +0900	EndTestCase		(Duration:"2.386449", Errors:"1", Exceptions:"0", StartTime:"2018-12-21 14:00:32 +0900", Successes:"0", TestCase:"11_connected Shilla Duty-Free.script", Warnings:"0")
+2018-12-21 14:00:35.009 +0900	ABORTED		Execution Time 0:00:02 11_connected Shilla Duty-Free.script

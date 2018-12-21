@@ -1,0 +1,121 @@
+{
+  "entries" : [
+    {
+      "identifier" : "START",
+      "message" : "Running 22_shilla_Home_side_UI.script",
+      "timestamp" : "2018-12-21 14:25:10.269 +0900"
+    },
+    {
+      "handlerName" : "on_22_shilla_home_side_ui",
+      "message" : "SEARCHRECTANGLE = ((1440,0),(1920,1080))",
+      "timestamp" : "2018-12-21 14:25:10.634 +0900",
+      "identifier" : "set",
+      "scriptName" : "22_shilla_Home_side_UI.script",
+      "handlerLine" : 15
+    },
+    {
+      "handlerName" : "on_22_shilla_home_side_ui",
+      "message" : "Unable to Find Image side\/rightside\/add_floting",
+      "identifier" : "imagefound",
+      "image" : "side\/rightside\/add_floting",
+      "handlerLine" : 17,
+      "timestamp" : "2018-12-21 14:25:14.019 +0900",
+      "scriptName" : "22_shilla_Home_side_UI.script"
+    },
+    {
+      "handlerName" : "on_22_shilla_home_side_ui",
+      "message" : "Pre Pick 팝업 미노출됨",
+      "timestamp" : "2018-12-21 14:25:14.048 +0900",
+      "identifier" : "Log",
+      "scriptName" : "22_shilla_Home_side_UI.script",
+      "handlerLine" : 21
+    },
+    {
+      "handlerName" : "on_22_shilla_home_side_ui",
+      "message" : "SEARCHRECTANGLE = ((0,0),(480,1080))",
+      "timestamp" : "2018-12-21 14:25:14.187 +0900",
+      "identifier" : "set",
+      "scriptName" : "22_shilla_Home_side_UI.script",
+      "handlerLine" : 30
+    },
+    {
+      "handlerName" : "on_22_shilla_home_side_ui",
+      "message" : "found at (412, 413)",
+      "identifier" : "imagefound",
+      "image" : "side\/leftside\/Event 1812",
+      "handlerLine" : 33,
+      "timestamp" : "2018-12-21 14:25:14.263 +0900",
+      "scriptName" : "22_shilla_Home_side_UI.script"
+    },
+    {
+      "handlerName" : "on_22_shilla_home_side_ui",
+      "message" : "12월 혜택 팝업 노출됨",
+      "timestamp" : "2018-12-21 14:25:14.299 +0900",
+      "identifier" : "LogSuccess",
+      "scriptName" : "22_shilla_Home_side_UI.script",
+      "handlerLine" : 34
+    },
+    {
+      "handlerName" : "on_22_shilla_home_side_ui",
+      "message" : "found at (414, 555)",
+      "identifier" : "imagefound",
+      "image" : "side\/leftside\/today's special",
+      "handlerLine" : 44,
+      "timestamp" : "2018-12-21 14:25:14.446 +0900",
+      "scriptName" : "22_shilla_Home_side_UI.script"
+    },
+    {
+      "handlerName" : "on_22_shilla_home_side_ui",
+      "message" : "오늘의 특가 팝업 노출됨",
+      "timestamp" : "2018-12-21 14:25:14.480 +0900",
+      "identifier" : "LogSuccess",
+      "scriptName" : "22_shilla_Home_side_UI.script",
+      "handlerLine" : 45
+    },
+    {
+      "handlerName" : "on_22_shilla_home_side_ui",
+      "message" : "found at (407, 645)",
+      "identifier" : "imagefound",
+      "image" : "side\/leftside\/TIMESALE",
+      "handlerLine" : 53,
+      "timestamp" : "2018-12-21 14:25:14.625 +0900",
+      "scriptName" : "22_shilla_Home_side_UI.script"
+    },
+    {
+      "handlerName" : "on_22_shilla_home_side_ui",
+      "message" : "타임세일 팝업 노출됨",
+      "timestamp" : "2018-12-21 14:25:14.685 +0900",
+      "identifier" : "LogSuccess",
+      "scriptName" : "22_shilla_Home_side_UI.script",
+      "handlerLine" : 54
+    },
+    {
+      "handlerName" : "on_22_shilla_home_side_ui",
+      "message" : "found at (411, 831)",
+      "identifier" : "imagefound",
+      "image" : "side\/leftside\/today's ExRate",
+      "handlerLine" : 62,
+      "timestamp" : "2018-12-21 14:25:14.999 +0900",
+      "scriptName" : "22_shilla_Home_side_UI.script"
+    },
+    {
+      "handlerName" : "on_22_shilla_home_side_ui",
+      "message" : "오늘의 환율 팝업 노출됨",
+      "timestamp" : "2018-12-21 14:25:15.060 +0900",
+      "identifier" : "LogSuccess",
+      "scriptName" : "22_shilla_Home_side_UI.script",
+      "handlerLine" : 63
+    },
+    {
+      "identifier" : "EndTestCase",
+      "message" : "(Duration:\"5.151454\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2018-12-21 14:25:10 +0900\", Successes:\"4\", TestCase:\"22_shilla_Home_side_UI.script\", Warnings:\"0\")",
+      "timestamp" : "2018-12-21 14:25:15.429 +0900"
+    },
+    {
+      "identifier" : "SUCCESS",
+      "message" : "Execution Time 0:00:05 22_shilla_Home_side_UI.script",
+      "timestamp" : "2018-12-21 14:25:15.455 +0900"
+    }
+  ],
+  "createdTimestamp" : "2018-12-21 14:25:10.277 +0900"
+}

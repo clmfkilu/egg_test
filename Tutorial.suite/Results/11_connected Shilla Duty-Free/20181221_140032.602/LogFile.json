@@ -1,0 +1,37 @@
+{
+  "entries" : [
+    {
+      "identifier" : "START",
+      "message" : "Running 11_connected Shilla Duty-Free.script",
+      "timestamp" : "2018-12-21 14:00:32.603 +0900"
+    },
+    {
+      "handlerName" : "on_11_connected_shilla_duty_free",
+      "message" : "at (188, 52)",
+      "identifier" : "click",
+      "image" : "click_adressbar",
+      "handlerLine" : 2,
+      "timestamp" : "2018-12-21 14:00:33.256 +0900",
+      "scriptName" : "11_connected Shilla Duty-Free.script"
+    },
+    {
+      "handlerName" : "on_11_connected_shilla_duty_free",
+      "message" : "www.shilladfs.com",
+      "timestamp" : "2018-12-21 14:00:34.760 +0900",
+      "identifier" : "typetext",
+      "scriptName" : "11_connected Shilla Duty-Free.script",
+      "handlerLine" : 3
+    },
+    {
+      "identifier" : "EndTestCase",
+      "message" : "(Duration:\"2.386449\", Errors:\"1\", Exceptions:\"0\", StartTime:\"2018-12-21 14:00:32 +0900\", Successes:\"0\", TestCase:\"11_connected Shilla Duty-Free.script\", Warnings:\"0\")",
+      "timestamp" : "2018-12-21 14:00:34.999 +0900"
+    },
+    {
+      "identifier" : "ABORTED",
+      "message" : "Execution Time 0:00:02 11_connected Shilla Duty-Free.script",
+      "timestamp" : "2018-12-21 14:00:35.009 +0900"
+    }
+  ],
+  "createdTimestamp" : "2018-12-21 14:00:32.612 +0900"
+}

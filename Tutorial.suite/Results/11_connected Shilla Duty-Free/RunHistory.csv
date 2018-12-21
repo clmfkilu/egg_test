@@ -1,0 +1,4 @@
+﻿Date Run,Status,Time,# of Errors,# of Warnings,# of Exceptions,Log File,Return Value,Error Message,# of Successes
+2018-12-21 14:00:32.602 +0900,"Aborted",0:00:02,1,0,0,"20181221_140032.602/LogFile.txt","","",0
+2018-12-21 16:58:41.945 +0900,"Aborted",0:00:13,1,0,1,"20181221_165841.945/LogFile.txt","","",0
+2018-12-21 16:59:20.705 +0900,"Success",0:00:18,0,0,0,"20181221_165920.705/LogFile.txt","","",1

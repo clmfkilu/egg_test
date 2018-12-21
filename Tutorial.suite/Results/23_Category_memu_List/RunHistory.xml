@@ -1,0 +1,75 @@
+﻿<?xml version="1.0"?>
+<runHistory script="23_Category_memu_List">
+ <run>
+  <RunDate>2018-12-17 10:24:14.070 +0900</RunDate>
+  <Status>Aborted</Status>
+  <Duration>4.455295</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20181217_102414.070/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-12-17 11:40:02.025 +0900</RunDate>
+  <Status>Success</Status>
+  <Duration>7.736593</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20181217_114002.025/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-12-21 17:01:19.721 +0900</RunDate>
+  <Status>Aborted</Status>
+  <Duration>53.651620</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>6</Successes>
+  <LogFile>20181221_170119.721/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-12-21 17:06:55.090 +0900</RunDate>
+  <Status>Aborted</Status>
+  <Duration>74.058026</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>7</Successes>
+  <LogFile>20181221_170655.090/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-12-21 17:12:42.946 +0900</RunDate>
+  <Status>Aborted</Status>
+  <Duration>10.349055</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20181221_171242.946/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-12-21 17:12:58.983 +0900</RunDate>
+  <Status>Success</Status>
+  <Duration>71.690629</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>5</Successes>
+  <LogFile>20181221_171258.983/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+</runHistory>

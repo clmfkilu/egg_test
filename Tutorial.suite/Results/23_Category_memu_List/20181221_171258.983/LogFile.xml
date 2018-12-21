@@ -1,0 +1,12 @@
+﻿<?xml version="1.0"?>
+<testsuites>
+ <testsuite name="23_Category_memu_List_script" package="Tutorial.suite" timestamp="2018-12-21 17:12:58.983 +0900"
+ tests="1"  failures="0" errors="0" time="71.690629">
+  <properties>
+   <property name="RunDate" value="2018-12-21 17:12:58.983 +0900"/>
+   <property name="Status" value="Success"/>
+  </properties>
+  <testcase name="23_Category_memu_List.script" assertions="5" status="success"  time="71.681343">
+  </testcase>
+ </testsuite>
+</testsuites>

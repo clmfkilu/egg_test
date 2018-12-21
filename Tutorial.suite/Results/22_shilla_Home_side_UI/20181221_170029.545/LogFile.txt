@@ -1,0 +1,15 @@
+﻿2018-12-21 17:00:29.547 +0900	START		Running 22_shilla_Home_side_UI.script
+2018-12-21 17:00:29.860 +0900	set		SEARCHRECTANGLE = ((1440,0),(1920,1080))	15	on_22_shilla_home_side_ui	22_shilla_Home_side_UI.script
+2018-12-21 17:00:30.012 +0900	imagefound	side/rightside/add_floting	found at (1546, 723)	17	on_22_shilla_home_side_ui	22_shilla_Home_side_UI.script
+2018-12-21 17:00:30.062 +0900	LogSuccess		Pre Pick 팝업 노출됨	18	on_22_shilla_home_side_ui	22_shilla_Home_side_UI.script
+2018-12-21 17:00:30.162 +0900	set		SEARCHRECTANGLE = ((0,0),(480,1080))	30	on_22_shilla_home_side_ui	22_shilla_Home_side_UI.script
+2018-12-21 17:00:30.309 +0900	imagefound	side/leftside/Event 1812	found at (412, 413)	33	on_22_shilla_home_side_ui	22_shilla_Home_side_UI.script
+2018-12-21 17:00:30.369 +0900	LogSuccess		12월 혜택 팝업 노출됨	34	on_22_shilla_home_side_ui	22_shilla_Home_side_UI.script
+2018-12-21 17:00:30.527 +0900	imagefound	side/leftside/today's special	found at (414, 555)	44	on_22_shilla_home_side_ui	22_shilla_Home_side_UI.script
+2018-12-21 17:00:30.583 +0900	LogSuccess		오늘의 특가 팝업 노출됨	45	on_22_shilla_home_side_ui	22_shilla_Home_side_UI.script
+2018-12-21 17:00:32.927 +0900	imagefound	side/leftside/TIMESALE	Unable to Find Image side/leftside/TIMESALE	53	on_22_shilla_home_side_ui	22_shilla_Home_side_UI.script
+2018-12-21 17:00:32.962 +0900	LogSuccess		타임세일 팝업 미노출됨	57	on_22_shilla_home_side_ui	22_shilla_Home_side_UI.script
+2018-12-21 17:00:33.080 +0900	imagefound	side/leftside/today's ExRate	found at (411, 831)	62	on_22_shilla_home_side_ui	22_shilla_Home_side_UI.script
+2018-12-21 17:00:33.134 +0900	LogSuccess		오늘의 환율 팝업 노출됨	63	on_22_shilla_home_side_ui	22_shilla_Home_side_UI.script
+2018-12-21 17:00:33.454 +0900	EndTestCase		(Duration:"3.897158", Errors:"0", Exceptions:"0", StartTime:"2018-12-21 17:00:29 +0900", Successes:"5", TestCase:"22_shilla_Home_side_UI.script", Warnings:"0")
+2018-12-21 17:00:33.482 +0900	SUCCESS		Execution Time 0:00:03 22_shilla_Home_side_UI.script

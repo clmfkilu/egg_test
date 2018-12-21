@@ -1,0 +1,7 @@
+﻿2018-12-21 16:58:41.947 +0900	START		Running 11_connected Shilla Duty-Free.script
+2018-12-21 16:58:42.251 +0900	click	click_adressbar	at (188, 52)	2	on_11_connected_shilla_duty_free	11_connected Shilla Duty-Free.script
+2018-12-21 16:58:43.270 +0900	typetext		www.shilladfs.com	3	on_11_connected_shilla_duty_free	11_connected Shilla Duty-Free.script
+2018-12-21 16:58:43.998 +0900	typetext		[returnKey]	4	on_11_connected_shilla_duty_free	11_connected Shilla Duty-Free.script
+2018-12-21 16:58:55.232 +0900	Exception		Searching For Image: OCR Error: OCR operation was aborted	9	on_11_connected_shilla_duty_free	11_connected Shilla Duty-Free.script
+2018-12-21 16:58:55.477 +0900	EndTestCase		(Duration:"13.522028", Errors:"1", Exceptions:"1", StartTime:"2018-12-21 16:58:41 +0900", Successes:"0", TestCase:"11_connected Shilla Duty-Free.script", Warnings:"0")
+2018-12-21 16:58:55.490 +0900	ABORTED		Execution Time 0:00:13 11_connected Shilla Duty-Free.script

@@ -1,0 +1,4 @@
+﻿2018-12-17 10:24:14.071 +0900	START		Running 23_Category_memu_List.script
+2018-12-17 10:24:14.254 +0900	set		SEARCHRECTANGLE = ((480,324),(1440,756))	3	on_23_category_memu_list	23_Category_memu_List.script
+2018-12-17 10:24:18.526 +0900	EndTestCase		(Duration:"4.444207", Errors:"1", Exceptions:"0", StartTime:"2018-12-17 10:24:14 +0900", Successes:"0", TestCase:"23_Category_memu_List.script", Warnings:"0")
+2018-12-17 10:24:18.537 +0900	ABORTED		Execution Time 0:00:04 23_Category_memu_List.script

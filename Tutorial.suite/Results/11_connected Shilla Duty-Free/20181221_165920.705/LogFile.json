@@ -1,0 +1,120 @@
+{
+  "entries" : [
+    {
+      "identifier" : "START",
+      "message" : "Running 11_connected Shilla Duty-Free.script",
+      "timestamp" : "2018-12-21 16:59:20.706 +0900"
+    },
+    {
+      "handlerName" : "on_11_connected_shilla_duty_free",
+      "message" : "at (188, 52)",
+      "identifier" : "click",
+      "image" : "click_adressbar",
+      "handlerLine" : 2,
+      "timestamp" : "2018-12-21 16:59:21.151 +0900",
+      "scriptName" : "11_connected Shilla Duty-Free.script"
+    },
+    {
+      "handlerName" : "on_11_connected_shilla_duty_free",
+      "message" : "www.shilladfs.com",
+      "timestamp" : "2018-12-21 16:59:22.152 +0900",
+      "identifier" : "typetext",
+      "scriptName" : "11_connected Shilla Duty-Free.script",
+      "handlerLine" : 3
+    },
+    {
+      "handlerName" : "on_11_connected_shilla_duty_free",
+      "message" : "[returnKey]",
+      "timestamp" : "2018-12-21 16:59:22.882 +0900",
+      "identifier" : "typetext",
+      "scriptName" : "11_connected Shilla Duty-Free.script",
+      "handlerLine" : 4
+    },
+    {
+      "handlerName" : "on_11_connected_shilla_duty_free",
+      "message" : "found at (66, 113)",
+      "identifier" : "imagefound",
+      "image" : "(TEXT:\"Shilladfs Popup\")",
+      "handlerLine" : 9,
+      "timestamp" : "2018-12-21 16:59:27.785 +0900",
+      "scriptName" : "11_connected Shilla Duty-Free.script"
+    },
+    {
+      "handlerName" : "on_11_connected_shilla_duty_free",
+      "message" : "at (26, 732)",
+      "identifier" : "click",
+      "image" : "click_onedaynosee",
+      "handlerLine" : 10,
+      "timestamp" : "2018-12-21 16:59:28.651 +0900",
+      "scriptName" : "11_connected Shilla Duty-Free.script"
+    },
+    {
+      "handlerName" : "on_11_connected_shilla_duty_free",
+      "message" : "[windowsAltKey][F4]",
+      "timestamp" : "2018-12-21 16:59:29.375 +0900",
+      "identifier" : "typetext",
+      "scriptName" : "11_connected Shilla Duty-Free.script",
+      "handlerLine" : 14
+    },
+    {
+      "handlerName" : "on_10_run_chrome",
+      "message" : "[windowsKey]r",
+      "timestamp" : "2018-12-21 16:59:30.113 +0900",
+      "identifier" : "typetext",
+      "scriptName" : "10_Run Chrome.script",
+      "handlerLine" : 2
+    },
+    {
+      "handlerName" : "on_10_run_chrome",
+      "message" : "chrome",
+      "timestamp" : "2018-12-21 16:59:30.906 +0900",
+      "identifier" : "typetext",
+      "scriptName" : "10_Run Chrome.script",
+      "handlerLine" : 3
+    },
+    {
+      "handlerName" : "on_10_run_chrome",
+      "message" : "[returnKey]",
+      "timestamp" : "2018-12-21 16:59:31.640 +0900",
+      "identifier" : "typetext",
+      "scriptName" : "10_Run Chrome.script",
+      "handlerLine" : 4
+    },
+    {
+      "handlerName" : "on_11_connected_shilla_duty_free",
+      "message" : "at (188, 52)",
+      "identifier" : "click",
+      "image" : "click_adressbar",
+      "handlerLine" : 17,
+      "timestamp" : "2018-12-21 16:59:34.887 +0900",
+      "scriptName" : "11_connected Shilla Duty-Free.script"
+    },
+    {
+      "handlerName" : "on_11_connected_shilla_duty_free",
+      "message" : "www.shilladfs.com",
+      "timestamp" : "2018-12-21 16:59:35.885 +0900",
+      "identifier" : "typetext",
+      "scriptName" : "11_connected Shilla Duty-Free.script",
+      "handlerLine" : 18
+    },
+    {
+      "handlerName" : "on_11_connected_shilla_duty_free",
+      "message" : "[returnKey]",
+      "timestamp" : "2018-12-21 16:59:36.614 +0900",
+      "identifier" : "typetext",
+      "scriptName" : "11_connected Shilla Duty-Free.script",
+      "handlerLine" : 19
+    },
+    {
+      "identifier" : "EndTestCase",
+      "message" : "(Duration:\"18.177292\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2018-12-21 16:59:20 +0900\", Successes:\"1\", TestCase:\"11_connected Shilla Duty-Free.script\", Warnings:\"0\")",
+      "timestamp" : "2018-12-21 16:59:38.892 +0900"
+    },
+    {
+      "identifier" : "SUCCESS",
+      "message" : "Execution Time 0:00:18 11_connected Shilla Duty-Free.script",
+      "timestamp" : "2018-12-21 16:59:38.925 +0900"
+    }
+  ],
+  "createdTimestamp" : "2018-12-21 16:59:20.714 +0900"
+}

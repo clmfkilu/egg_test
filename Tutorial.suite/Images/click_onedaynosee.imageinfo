@@ -1,0 +1,21 @@
+﻿{
+    CaptureDate = "2018-12-21 05:06:29 +0000";
+    CaptureHost = "192.168.200.98";
+    CaptureScreenSize =     (
+        1920,
+        1080
+    );
+    HasAlpha = 0;
+    HotSpotX = 7;
+    HotSpotY = 7;
+    ImageDescription = <>;
+    LastKnownLocationX = 0;
+    LastKnownLocationY = 0;
+    OriginalLocationX = 19;
+    OriginalLocationY = 725;
+    Precise = 1;
+    Pulsing = 0;
+    Scale = 1;
+    tags =     (
+    );
+}

@@ -1,0 +1,12 @@
+﻿<?xml version="1.0"?>
+<testsuites>
+ <testsuite name="22_shilla_Home_side_UI_script" package="Tutorial.suite" timestamp="2018-12-21 14:21:47.187 +0900"
+ tests="1"  failures="0" errors="0" time="1.872419">
+  <properties>
+   <property name="RunDate" value="2018-12-21 14:21:47.187 +0900"/>
+   <property name="Status" value="Success"/>
+  </properties>
+  <testcase name="22_shilla_Home_side_UI.script" assertions="5" status="success"  time="1.863137">
+  </testcase>
+ </testsuite>
+</testsuites>

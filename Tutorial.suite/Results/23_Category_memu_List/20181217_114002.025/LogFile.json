@@ -1,0 +1,70 @@
+{
+  "entries" : [
+    {
+      "identifier" : "START",
+      "message" : "Running 23_Category_memu_List.script",
+      "timestamp" : "2018-12-17 11:40:02.026 +0900"
+    },
+    {
+      "handlerName" : "on_23_category_memu_list",
+      "message" : "SEARCHRECTANGLE = ((455,265),(1455,775))",
+      "timestamp" : "2018-12-17 11:40:02.064 +0900",
+      "identifier" : "set",
+      "scriptName" : "23_Category_memu_List.script",
+      "handlerLine" : 3
+    },
+    {
+      "handlerName" : "on_23_category_memu_list",
+      "message" : "SEARCHRECTANGLE = ((488,323),(612,780))",
+      "timestamp" : "2018-12-17 11:40:07.079 +0900",
+      "identifier" : "set",
+      "scriptName" : "23_Category_memu_List.script",
+      "handlerLine" : 9
+    },
+    {
+      "handlerName" : "on_23_category_memu_list",
+      "message" : "Unable to Find Image memu_skincare",
+      "identifier" : "imagefound",
+      "image" : "memu_skincare",
+      "handlerLine" : 10,
+      "timestamp" : "2018-12-17 11:40:09.284 +0900",
+      "scriptName" : "23_Category_memu_List.script"
+    },
+    {
+      "handlerName" : "on_23_category_memu_list",
+      "message" : "스킨케어 메뉴를 찾을 수 없습니다.",
+      "timestamp" : "2018-12-17 11:40:09.296 +0900",
+      "identifier" : "Log",
+      "scriptName" : "23_Category_memu_List.script",
+      "handlerLine" : 13
+    },
+    {
+      "handlerName" : "on_23_category_memu_list",
+      "message" : "SEARCHRECTANGLE = ((615,325),(750,770))",
+      "timestamp" : "2018-12-17 11:40:09.310 +0900",
+      "identifier" : "set",
+      "scriptName" : "23_Category_memu_List.script",
+      "handlerLine" : 17
+    },
+    {
+      "handlerName" : "on_23_category_memu_list",
+      "message" : "found at (647, 346)",
+      "identifier" : "imagefound",
+      "image" : "(TEXT:\"기초케어\")",
+      "handlerLine" : 18,
+      "timestamp" : "2018-12-17 11:40:09.482 +0900",
+      "scriptName" : "23_Category_memu_List.script"
+    },
+    {
+      "identifier" : "EndTestCase",
+      "message" : "(Duration:\"7.727167\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2018-12-17 11:40:02 +0900\", Successes:\"1\", TestCase:\"23_Category_memu_List.script\", Warnings:\"0\")",
+      "timestamp" : "2018-12-17 11:40:09.762 +0900"
+    },
+    {
+      "identifier" : "SUCCESS",
+      "message" : "Execution Time 0:00:07 23_Category_memu_List.script",
+      "timestamp" : "2018-12-17 11:40:09.788 +0900"
+    }
+  ],
+  "createdTimestamp" : "2018-12-17 11:40:02.035 +0900"
+}

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0"?>
+<testsuites>
+ <testsuite name="11_connected Shilla Duty-Free_script" package="Tutorial.suite" timestamp="2018-12-21 16:58:41.945 +0900"
+ tests="1"  failures="0" errors="0" time="13.531210">
+  <properties>
+   <property name="RunDate" value="2018-12-21 16:58:41.945 +0900"/>
+   <property name="Status" value="Aborted"/>
+  </properties>
+  <testcase name="11_connected Shilla Duty-Free.script" assertions="1" status="error"  time="13.522028">
+    <error type="Exception" message="Searching For Image: OCR Error: OCR operation was aborted" />
+  </testcase>
+ </testsuite>
+</testsuites>

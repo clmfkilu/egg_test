@@ -1,0 +1,28 @@
+{
+  "entries" : [
+    {
+      "identifier" : "START",
+      "message" : "Running 23_Category_memu_List.script",
+      "timestamp" : "2018-12-17 10:24:14.071 +0900"
+    },
+    {
+      "handlerName" : "on_23_category_memu_list",
+      "message" : "SEARCHRECTANGLE = ((480,324),(1440,756))",
+      "timestamp" : "2018-12-17 10:24:14.254 +0900",
+      "identifier" : "set",
+      "scriptName" : "23_Category_memu_List.script",
+      "handlerLine" : 3
+    },
+    {
+      "identifier" : "EndTestCase",
+      "message" : "(Duration:\"4.444207\", Errors:\"1\", Exceptions:\"0\", StartTime:\"2018-12-17 10:24:14 +0900\", Successes:\"0\", TestCase:\"23_Category_memu_List.script\", Warnings:\"0\")",
+      "timestamp" : "2018-12-17 10:24:18.526 +0900"
+    },
+    {
+      "identifier" : "ABORTED",
+      "message" : "Execution Time 0:00:04 23_Category_memu_List.script",
+      "timestamp" : "2018-12-17 10:24:18.537 +0900"
+    }
+  ],
+  "createdTimestamp" : "2018-12-17 10:24:14.081 +0900"
+}

@@ -1,0 +1,25 @@
+﻿2018-12-21 17:01:19.723 +0900	START		Running 23_Category_memu_List.script
+2018-12-21 17:01:19.900 +0900	set		SEARCHRECTANGLE = ((455,265),(1455,775))	3	on_23_category_memu_list	23_Category_memu_List.script
+2018-12-21 17:01:24.968 +0900	set		SEARCHRECTANGLE = ((488,323),(612,780))	9	on_23_category_memu_list	23_Category_memu_List.script
+2018-12-21 17:01:25.117 +0900	imagefound	memu_skincare	found at (522, 372)	10	on_23_category_memu_list	23_Category_memu_List.script
+2018-12-21 17:01:25.176 +0900	moveto		at (522, 372)	11	on_23_category_memu_list	23_Category_memu_List.script
+2018-12-21 17:01:25.228 +0900	set		SEARCHRECTANGLE = ((615,325),(750,770))	17	on_23_category_memu_list	23_Category_memu_List.script
+2018-12-21 17:01:26.714 +0900	imagefound	(TEXT:"기초케어")	found at (647, 377)	18	on_23_category_memu_list	23_Category_memu_List.script
+2018-12-21 17:01:36.134 +0900	imagefound	(TEXT:"스킨/토너")	Unable to Find Image (TEXT:"스킨/토너")	20	on_23_category_memu_list	23_Category_memu_List.script
+2018-12-21 17:01:37.012 +0900	imagefound	(TEXT:"로션")	found at (636, 429)	20	on_23_category_memu_list	23_Category_memu_List.script
+2018-12-21 17:01:37.024 +0900	LogSuccess		로션 메뉴가 노출됨	20	on_23_category_memu_list	23_Category_memu_List.script
+2018-12-21 17:01:37.794 +0900	imagefound	(TEXT:"크림")	found at (635, 448)	20	on_23_category_memu_list	23_Category_memu_List.script
+2018-12-21 17:01:37.806 +0900	LogSuccess		크림 메뉴가 노출됨	20	on_23_category_memu_list	23_Category_memu_List.script
+2018-12-21 17:01:48.292 +0900	imagefound	(TEXT:"에센스 / 페이스오일")	Unable to Find Image (TEXT:"에센스 / 페이스오일")	20	on_23_category_memu_list	23_Category_memu_List.script
+2018-12-21 17:01:49.292 +0900	imagefound	(TEXT:"미스트")	found at (641, 486)	20	on_23_category_memu_list	23_Category_memu_List.script
+2018-12-21 17:01:49.305 +0900	LogSuccess		미스트 메뉴가 노출됨	20	on_23_category_memu_list	23_Category_memu_List.script
+2018-12-21 17:01:59.796 +0900	imagefound	(TEXT:"팩/마스크팩")	Unable to Find Image (TEXT:"팩/마스크팩")	20	on_23_category_memu_list	23_Category_memu_List.script
+2018-12-21 17:02:00.921 +0900	imagefound	(TEXT:"아이케어")	found at (646, 523)	20	on_23_category_memu_list	23_Category_memu_List.script
+2018-12-21 17:02:00.934 +0900	LogSuccess		아이케어 메뉴가 노출됨	20	on_23_category_memu_list	23_Category_memu_List.script
+2018-12-21 17:02:02.028 +0900	imagefound	(TEXT:"립케어")	found at (640, 542)	20	on_23_category_memu_list	23_Category_memu_List.script
+2018-12-21 17:02:02.042 +0900	LogSuccess		립케어 메뉴가 노출됨	20	on_23_category_memu_list	23_Category_memu_List.script
+2018-12-21 17:02:03.112 +0900	imagefound	(TEXT:"스페셜케어")	found at (651, 561)	20	on_23_category_memu_list	23_Category_memu_List.script
+2018-12-21 17:02:03.125 +0900	LogSuccess		스페셜케어 메뉴가 노출됨	20	on_23_category_memu_list	23_Category_memu_List.script
+2018-12-21 17:02:13.109 +0900	Exception		Searching For Image: OCR Error: OCR operation was aborted	20	on_23_category_memu_list	23_Category_memu_List.script
+2018-12-21 17:02:13.373 +0900	EndTestCase		(Duration:"53.642939", Errors:"1", Exceptions:"1", StartTime:"2018-12-21 17:01:19 +0900", Successes:"6", TestCase:"23_Category_memu_List.script", Warnings:"0")
+2018-12-21 17:02:13.384 +0900	ABORTED		Execution Time 0:00:53 23_Category_memu_List.script

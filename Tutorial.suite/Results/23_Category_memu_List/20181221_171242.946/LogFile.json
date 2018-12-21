@@ -1,0 +1,69 @@
+{
+  "entries" : [
+    {
+      "identifier" : "START",
+      "message" : "Running 23_Category_memu_List.script",
+      "timestamp" : "2018-12-21 17:12:42.947 +0900"
+    },
+    {
+      "handlerName" : "on_23_category_memu_list",
+      "message" : "SEARCHRECTANGLE = ((455,265),(1455,775))",
+      "timestamp" : "2018-12-21 17:12:43.090 +0900",
+      "identifier" : "set",
+      "scriptName" : "23_Category_memu_List.script",
+      "handlerLine" : 3
+    },
+    {
+      "handlerName" : "on_23_category_memu_list",
+      "message" : "SEARCHRECTANGLE = ((488,323),(612,780))",
+      "timestamp" : "2018-12-21 17:12:48.143 +0900",
+      "identifier" : "set",
+      "scriptName" : "23_Category_memu_List.script",
+      "handlerLine" : 9
+    },
+    {
+      "handlerName" : "on_23_category_memu_list",
+      "message" : "Unable to Find Image memu_skincare",
+      "identifier" : "imagefound",
+      "image" : "memu_skincare",
+      "handlerLine" : 10,
+      "timestamp" : "2018-12-21 17:12:50.470 +0900",
+      "scriptName" : "23_Category_memu_List.script"
+    },
+    {
+      "handlerName" : "on_23_category_memu_list",
+      "message" : "스킨케어 메뉴를 찾을 수 없습니다.",
+      "timestamp" : "2018-12-21 17:12:50.491 +0900",
+      "identifier" : "Log",
+      "scriptName" : "23_Category_memu_List.script",
+      "handlerLine" : 13
+    },
+    {
+      "handlerName" : "on_23_category_memu_list",
+      "message" : "SEARCHRECTANGLE = ((615,325),(750,770))",
+      "timestamp" : "2018-12-21 17:12:50.527 +0900",
+      "identifier" : "set",
+      "scriptName" : "23_Category_memu_List.script",
+      "handlerLine" : 17
+    },
+    {
+      "handlerName" : "on_23_category_memu_list",
+      "message" : "Searching For Image: OCR Error: OCR operation was aborted",
+      "timestamp" : "2018-12-21 17:12:53.033 +0900",
+      "identifier" : "Exception",
+      "scriptName" : "23_Category_memu_List.script",
+      "handlerLine" : 18
+    },
+    {
+      "identifier" : "EndTestCase",
+      "message" : "(Duration:\"10.340516\", Errors:\"1\", Exceptions:\"1\", StartTime:\"2018-12-21 17:12:42 +0900\", Successes:\"0\", TestCase:\"23_Category_memu_List.script\", Warnings:\"0\")",
+      "timestamp" : "2018-12-21 17:12:53.295 +0900"
+    },
+    {
+      "identifier" : "ABORTED",
+      "message" : "Execution Time 0:00:10 23_Category_memu_List.script",
+      "timestamp" : "2018-12-21 17:12:53.306 +0900"
+    }
+  ],
+  "createdTimestamp" : "2018-12-21 17:12:42.955 +0900"
+}

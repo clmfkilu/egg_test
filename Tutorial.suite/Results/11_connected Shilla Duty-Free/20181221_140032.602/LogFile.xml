@@ -1,0 +1,13 @@
+﻿<?xml version="1.0"?>
+<testsuites>
+ <testsuite name="11_connected Shilla Duty-Free_script" package="Tutorial.suite" timestamp="2018-12-21 14:00:32.602 +0900"
+ tests="1"  failures="0" errors="0" time="2.396570">
+  <properties>
+   <property name="RunDate" value="2018-12-21 14:00:32.602 +0900"/>
+   <property name="Status" value="Aborted"/>
+  </properties>
+  <testcase name="11_connected Shilla Duty-Free.script" assertions="1" status="failure"  time="2.386449">
+    <failure type="FAILURE" message="See main script" />
+  </testcase>
+ </testsuite>
+</testsuites>

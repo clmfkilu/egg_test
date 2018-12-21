@@ -1,0 +1,135 @@
+﻿<?xml version="1.0"?>
+<runHistory script="22_shilla_Home_side_UI">
+ <run>
+  <RunDate>2018-12-14 15:52:46.898 +0900</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.679187</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20181214_155246.898/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>File Not Found -- imagefound Error - Could Not Open Image: rightside_add_popup.png</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-12-14 15:56:12.882 +0900</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.594401</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20181214_155612.882/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>SenseTalk Runtime Exception -- Invalid operands for addition: expected numbers, dates and/or lists; got &#x27;Pass&#x27; and &#x27;&#x27;</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-12-14 15:56:20.689 +0900</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.623388</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20181214_155620.689/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>SenseTalk Runtime Exception -- Invalid operands for addition: expected numbers, dates and/or lists; got &#x27;Pass&#x27; and &#x27;&#x27;</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-12-14 16:09:32.009 +0900</RunDate>
+  <Status>Success</Status>
+  <Duration>1.038645</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>5</Successes>
+  <LogFile>20181214_160932.009/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-12-14 16:28:33.263 +0900</RunDate>
+  <Status>Success</Status>
+  <Duration>1.066439</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>5</Successes>
+  <LogFile>20181214_162833.263/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-12-21 14:21:47.187 +0900</RunDate>
+  <Status>Success</Status>
+  <Duration>1.872419</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>5</Successes>
+  <LogFile>20181221_142147.187/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-12-21 14:24:00.273 +0900</RunDate>
+  <Status>Success</Status>
+  <Duration>2.087121</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>5</Successes>
+  <LogFile>20181221_142400.273/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-12-21 14:24:21.704 +0900</RunDate>
+  <Status>Success</Status>
+  <Duration>7.324956</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>5</Successes>
+  <LogFile>20181221_142421.704/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-12-21 14:25:10.268 +0900</RunDate>
+  <Status>Success</Status>
+  <Duration>5.160945</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>4</Successes>
+  <LogFile>20181221_142510.268/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-12-21 14:25:30.393 +0900</RunDate>
+  <Status>Success</Status>
+  <Duration>1.894803</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>5</Successes>
+  <LogFile>20181221_142530.393/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-12-21 17:00:29.545 +0900</RunDate>
+  <Status>Success</Status>
+  <Duration>3.908516</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>5</Successes>
+  <LogFile>20181221_170029.545/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+</runHistory>

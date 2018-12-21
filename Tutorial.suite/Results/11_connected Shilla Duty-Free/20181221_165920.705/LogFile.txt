@@ -1,0 +1,15 @@
+﻿2018-12-21 16:59:20.706 +0900	START		Running 11_connected Shilla Duty-Free.script
+2018-12-21 16:59:21.151 +0900	click	click_adressbar	at (188, 52)	2	on_11_connected_shilla_duty_free	11_connected Shilla Duty-Free.script
+2018-12-21 16:59:22.152 +0900	typetext		www.shilladfs.com	3	on_11_connected_shilla_duty_free	11_connected Shilla Duty-Free.script
+2018-12-21 16:59:22.882 +0900	typetext		[returnKey]	4	on_11_connected_shilla_duty_free	11_connected Shilla Duty-Free.script
+2018-12-21 16:59:27.785 +0900	imagefound	(TEXT:"Shilladfs Popup")	found at (66, 113)	9	on_11_connected_shilla_duty_free	11_connected Shilla Duty-Free.script
+2018-12-21 16:59:28.651 +0900	click	click_onedaynosee	at (26, 732)	10	on_11_connected_shilla_duty_free	11_connected Shilla Duty-Free.script
+2018-12-21 16:59:29.375 +0900	typetext		[windowsAltKey][F4]	14	on_11_connected_shilla_duty_free	11_connected Shilla Duty-Free.script
+2018-12-21 16:59:30.113 +0900	typetext		[windowsKey]r	2	on_10_run_chrome	10_Run Chrome.script
+2018-12-21 16:59:30.906 +0900	typetext		chrome	3	on_10_run_chrome	10_Run Chrome.script
+2018-12-21 16:59:31.640 +0900	typetext		[returnKey]	4	on_10_run_chrome	10_Run Chrome.script
+2018-12-21 16:59:34.887 +0900	click	click_adressbar	at (188, 52)	17	on_11_connected_shilla_duty_free	11_connected Shilla Duty-Free.script
+2018-12-21 16:59:35.885 +0900	typetext		www.shilladfs.com	18	on_11_connected_shilla_duty_free	11_connected Shilla Duty-Free.script
+2018-12-21 16:59:36.614 +0900	typetext		[returnKey]	19	on_11_connected_shilla_duty_free	11_connected Shilla Duty-Free.script
+2018-12-21 16:59:38.892 +0900	EndTestCase		(Duration:"18.177292", Errors:"0", Exceptions:"0", StartTime:"2018-12-21 16:59:20 +0900", Successes:"1", TestCase:"11_connected Shilla Duty-Free.script", Warnings:"0")
+2018-12-21 16:59:38.925 +0900	SUCCESS		Execution Time 0:00:18 11_connected Shilla Duty-Free.script
